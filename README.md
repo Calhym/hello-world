@@ -1,5 +1,5 @@
 # hello-world
-My first repository.
+My first GitHub repository.
 
 ## **About Me**
 Hey, I'm Calvin!
